@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\LabChurakov3\LabChurakov3\bin\Debug\LabChurakov3.exe.config
+C:\Users\andre\source\repos\LabChurakov3\LabChurakov3\bin\Debug\LabChurakov3.exe
+C:\Users\andre\source\repos\LabChurakov3\LabChurakov3\bin\Debug\LabChurakov3.pdb
+C:\Users\andre\source\repos\LabChurakov3\LabChurakov3\obj\Debug\LabChurakov3.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\LabChurakov3\LabChurakov3\obj\Debug\LabChurakov3.Properties.Resources.resources
+C:\Users\andre\source\repos\LabChurakov3\LabChurakov3\obj\Debug\LabChurakov3.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\LabChurakov3\LabChurakov3\obj\Debug\LabChurakov3.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\LabChurakov3\LabChurakov3\obj\Debug\LabChurakov3.exe
+C:\Users\andre\source\repos\LabChurakov3\LabChurakov3\obj\Debug\LabChurakov3.pdb
+C:\Users\andre\source\repos\LabChurakov3\LabChurakov3\obj\Debug\LabChurakov3.Form1.resources
