@@ -1,0 +1,4 @@
+C:\Users\WORLD\source\repos\Kursova\obj\Release\Kursova.csproj.AssemblyReference.cache
+C:\Users\WORLD\source\repos\Kursova\obj\Release\Kursova.Properties.Resources.resources
+C:\Users\WORLD\source\repos\Kursova\obj\Release\Kursova.csproj.GenerateResource.cache
+C:\Users\WORLD\source\repos\Kursova\obj\Release\Kursova.csproj.CoreCompileInputs.cache
