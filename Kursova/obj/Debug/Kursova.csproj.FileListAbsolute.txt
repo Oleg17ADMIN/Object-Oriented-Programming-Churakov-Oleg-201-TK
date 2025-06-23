@@ -1,9 +1,0 @@
-C:\Users\WORLD\source\repos\Kursova\bin\Debug\Kursova.exe.config
-C:\Users\WORLD\source\repos\Kursova\bin\Debug\Kursova.exe
-C:\Users\WORLD\source\repos\Kursova\bin\Debug\Kursova.pdb
-C:\Users\WORLD\source\repos\Kursova\obj\Debug\Kursova.csproj.AssemblyReference.cache
-C:\Users\WORLD\source\repos\Kursova\obj\Debug\Kursova.Properties.Resources.resources
-C:\Users\WORLD\source\repos\Kursova\obj\Debug\Kursova.csproj.GenerateResource.cache
-C:\Users\WORLD\source\repos\Kursova\obj\Debug\Kursova.csproj.CoreCompileInputs.cache
-C:\Users\WORLD\source\repos\Kursova\obj\Debug\Kursova.exe
-C:\Users\WORLD\source\repos\Kursova\obj\Debug\Kursova.pdb
