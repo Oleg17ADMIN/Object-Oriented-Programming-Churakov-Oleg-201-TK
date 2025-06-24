@@ -1,0 +1,31 @@
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\obj\Debug\App.g.cs
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\obj\Debug\Lab8_MarkupCompile.cache
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\obj\Debug\Lab8_MarkupCompile.lref
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\obj\Debug\Lab8.g.resources
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\user\Desktop\oop labs\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\Users\WORLD\source\repos\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\WORLD\source\repos\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\WORLD\source\repos\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\WORLD\source\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Users\WORLD\source\repos\Lab8\Lab8\obj\Debug\Lab8.exe.config
+C:\Users\WORLD\source\repos\Lab8\Lab8\obj\Debug\MainWindow.g.cs
+C:\Users\WORLD\source\repos\Lab8\Lab8\obj\Debug\App.g.cs
+C:\Users\WORLD\source\repos\Lab8\Lab8\obj\Debug\Lab8_MarkupCompile.cache
+C:\Users\WORLD\source\repos\Lab8\Lab8\obj\Debug\Lab8_MarkupCompile.lref
+C:\Users\WORLD\source\repos\Lab8\Lab8\obj\Debug\MainWindow.baml
+C:\Users\WORLD\source\repos\Lab8\Lab8\obj\Debug\Lab8.g.resources
+C:\Users\WORLD\source\repos\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\WORLD\source\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\WORLD\source\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\WORLD\source\repos\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\WORLD\source\repos\Lab8\Lab8\obj\Debug\Lab8.pdb
