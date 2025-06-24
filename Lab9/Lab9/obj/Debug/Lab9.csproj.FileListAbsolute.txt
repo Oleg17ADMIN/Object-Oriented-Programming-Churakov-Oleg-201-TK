@@ -1,0 +1,31 @@
+C:\Users\user\Desktop\oop labs\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\user\Desktop\oop labs\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\user\Desktop\oop labs\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\user\Desktop\oop labs\Lab9\Lab9\obj\Debug\Lab9.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\oop labs\Lab9\Lab9\obj\Debug\Lab9.Form1.resources
+C:\Users\user\Desktop\oop labs\Lab9\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\Users\user\Desktop\oop labs\Lab9\Lab9\obj\Debug\Lab9.csproj.GenerateResource.cache
+C:\Users\user\Desktop\oop labs\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\oop labs\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\user\Desktop\oop labs\Lab9\Lab9\obj\Debug\Lab9.pdb
+C:\Users\andre\OneDrive\Desktop\oop1\Lab9\Lab9\obj\Debug\Lab9.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\oop1\Lab9\Lab9\obj\Debug\Lab9.Form1.resources
+C:\Users\andre\OneDrive\Desktop\oop1\Lab9\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\Users\andre\OneDrive\Desktop\oop1\Lab9\Lab9\obj\Debug\Lab9.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Desktop\oop1\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\oop1\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\andre\OneDrive\Desktop\oop1\Lab9\Lab9\obj\Debug\Lab9.pdb
+C:\Users\andre\OneDrive\Desktop\oop1\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\andre\OneDrive\Desktop\oop1\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\andre\OneDrive\Desktop\oop1\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\WORLD\source\repos\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\WORLD\source\repos\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\WORLD\source\repos\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\WORLD\source\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.AssemblyReference.cache
+C:\Users\WORLD\source\repos\Lab9\Lab9\obj\Debug\Lab9.exe.config
+C:\Users\WORLD\source\repos\Lab9\Lab9\obj\Debug\Lab9.Form1.resources
+C:\Users\WORLD\source\repos\Lab9\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\Users\WORLD\source\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.GenerateResource.cache
+C:\Users\WORLD\source\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\WORLD\source\repos\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\WORLD\source\repos\Lab9\Lab9\obj\Debug\Lab9.pdb
