@@ -1,0 +1,33 @@
+C:\Users\user\Desktop\oop labs\Lab16\Lab16\bin\Debug\Lab16.exe.config
+C:\Users\user\Desktop\oop labs\Lab16\Lab16\bin\Debug\Lab16.exe
+C:\Users\user\Desktop\oop labs\Lab16\Lab16\bin\Debug\Lab16.pdb
+C:\Users\user\Desktop\oop labs\Lab16\Lab16\obj\Debug\Lab16.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\oop labs\Lab16\Lab16\obj\Debug\Lab16.Form1.resources
+C:\Users\user\Desktop\oop labs\Lab16\Lab16\obj\Debug\Lab16.Properties.Resources.resources
+C:\Users\user\Desktop\oop labs\Lab16\Lab16\obj\Debug\Lab16.csproj.GenerateResource.cache
+C:\Users\user\Desktop\oop labs\Lab16\Lab16\obj\Debug\Lab16.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\oop labs\Lab16\Lab16\obj\Debug\Lab16.exe
+C:\Users\user\Desktop\oop labs\Lab16\Lab16\obj\Debug\Lab16.pdb
+C:\Users\user\Desktop\oop labs\Lab16\Lab16\obj\Debug\Lab16.SettingsForm.resources
+C:\Users\andre\OneDrive\Desktop\oop1\Lab16\Lab16\bin\Debug\Lab16.exe.config
+C:\Users\andre\OneDrive\Desktop\oop1\Lab16\Lab16\bin\Debug\Lab16.exe
+C:\Users\andre\OneDrive\Desktop\oop1\Lab16\Lab16\bin\Debug\Lab16.pdb
+C:\Users\andre\OneDrive\Desktop\oop1\Lab16\Lab16\obj\Debug\Lab16.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\oop1\Lab16\Lab16\obj\Debug\Lab16.Form1.resources
+C:\Users\andre\OneDrive\Desktop\oop1\Lab16\Lab16\obj\Debug\Lab16.Properties.Resources.resources
+C:\Users\andre\OneDrive\Desktop\oop1\Lab16\Lab16\obj\Debug\Lab16.SettingsForm.resources
+C:\Users\andre\OneDrive\Desktop\oop1\Lab16\Lab16\obj\Debug\Lab16.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Desktop\oop1\Lab16\Lab16\obj\Debug\Lab16.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\oop1\Lab16\Lab16\obj\Debug\Lab16.exe
+C:\Users\andre\OneDrive\Desktop\oop1\Lab16\Lab16\obj\Debug\Lab16.pdb
+C:\Users\WORLD\source\repos\Lab16\Lab16\bin\Debug\Lab16.exe.config
+C:\Users\WORLD\source\repos\Lab16\Lab16\bin\Debug\Lab16.exe
+C:\Users\WORLD\source\repos\Lab16\Lab16\bin\Debug\Lab16.pdb
+C:\Users\WORLD\source\repos\Lab16\Lab16\obj\Debug\Lab16.csproj.AssemblyReference.cache
+C:\Users\WORLD\source\repos\Lab16\Lab16\obj\Debug\Lab16.Form1.resources
+C:\Users\WORLD\source\repos\Lab16\Lab16\obj\Debug\Lab16.Properties.Resources.resources
+C:\Users\WORLD\source\repos\Lab16\Lab16\obj\Debug\Lab16.SettingsForm.resources
+C:\Users\WORLD\source\repos\Lab16\Lab16\obj\Debug\Lab16.csproj.GenerateResource.cache
+C:\Users\WORLD\source\repos\Lab16\Lab16\obj\Debug\Lab16.csproj.CoreCompileInputs.cache
+C:\Users\WORLD\source\repos\Lab16\Lab16\obj\Debug\Lab16.exe
+C:\Users\WORLD\source\repos\Lab16\Lab16\obj\Debug\Lab16.pdb
