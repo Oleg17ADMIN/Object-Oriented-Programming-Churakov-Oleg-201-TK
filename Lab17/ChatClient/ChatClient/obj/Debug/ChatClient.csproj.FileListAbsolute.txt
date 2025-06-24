@@ -1,0 +1,21 @@
+C:\Users\user\Desktop\oop labs\Lab17\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\user\Desktop\oop labs\Lab17\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\user\Desktop\oop labs\Lab17\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\user\Desktop\oop labs\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\oop labs\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.Form1.resources
+C:\Users\user\Desktop\oop labs\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\user\Desktop\oop labs\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\user\Desktop\oop labs\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\oop labs\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\user\Desktop\oop labs\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\WORLD\source\repos\Lab17\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\WORLD\source\repos\Lab17\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\WORLD\source\repos\Lab17\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\WORLD\source\repos\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\WORLD\source\repos\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.exe.config
+C:\Users\WORLD\source\repos\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.Form1.resources
+C:\Users\WORLD\source\repos\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\WORLD\source\repos\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\WORLD\source\repos\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\WORLD\source\repos\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\WORLD\source\repos\Lab17\ChatClient\ChatClient\obj\Debug\ChatClient.pdb

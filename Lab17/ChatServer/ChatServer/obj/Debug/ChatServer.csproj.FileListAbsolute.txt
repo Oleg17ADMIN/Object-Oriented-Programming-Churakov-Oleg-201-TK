@@ -1,0 +1,21 @@
+C:\Users\user\Desktop\oop labs\Lab17\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\user\Desktop\oop labs\Lab17\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\user\Desktop\oop labs\Lab17\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\user\Desktop\oop labs\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\oop labs\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.ChatServer.resources
+C:\Users\user\Desktop\oop labs\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\user\Desktop\oop labs\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\oop labs\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\oop labs\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\user\Desktop\oop labs\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\WORLD\source\repos\Lab17\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\WORLD\source\repos\Lab17\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\WORLD\source\repos\Lab17\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\WORLD\source\repos\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\WORLD\source\repos\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.exe.config
+C:\Users\WORLD\source\repos\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.ChatServer.resources
+C:\Users\WORLD\source\repos\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\WORLD\source\repos\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\WORLD\source\repos\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\WORLD\source\repos\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\WORLD\source\repos\Lab17\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
