@@ -1,0 +1,31 @@
+C:\Users\user\Desktop\oop labs\Lab13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\user\Desktop\oop labs\Lab13\Lab13\bin\Debug\Lab13.exe
+C:\Users\user\Desktop\oop labs\Lab13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\user\Desktop\oop labs\Lab13\Lab13\obj\Debug\Lab13.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\oop labs\Lab13\Lab13\obj\Debug\Lab13.Form1.resources
+C:\Users\user\Desktop\oop labs\Lab13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\user\Desktop\oop labs\Lab13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Users\user\Desktop\oop labs\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\oop labs\Lab13\Lab13\obj\Debug\Lab13.exe
+C:\Users\user\Desktop\oop labs\Lab13\Lab13\obj\Debug\Lab13.pdb
+C:\Users\andre\OneDrive\Desktop\oop1\Lab13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\andre\OneDrive\Desktop\oop1\Lab13\Lab13\bin\Debug\Lab13.exe
+C:\Users\andre\OneDrive\Desktop\oop1\Lab13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\andre\OneDrive\Desktop\oop1\Lab13\Lab13\obj\Debug\Lab13.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\oop1\Lab13\Lab13\obj\Debug\Lab13.Form1.resources
+C:\Users\andre\OneDrive\Desktop\oop1\Lab13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\andre\OneDrive\Desktop\oop1\Lab13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Desktop\oop1\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\oop1\Lab13\Lab13\obj\Debug\Lab13.exe
+C:\Users\andre\OneDrive\Desktop\oop1\Lab13\Lab13\obj\Debug\Lab13.pdb
+C:\Users\WORLD\source\repos\Lab13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\WORLD\source\repos\Lab13\Lab13\bin\Debug\Lab13.exe
+C:\Users\WORLD\source\repos\Lab13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\WORLD\source\repos\Lab13\Lab13\obj\Debug\Lab13.csproj.AssemblyReference.cache
+C:\Users\WORLD\source\repos\Lab13\Lab13\obj\Debug\Lab13.exe.config
+C:\Users\WORLD\source\repos\Lab13\Lab13\obj\Debug\Lab13.Form1.resources
+C:\Users\WORLD\source\repos\Lab13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\WORLD\source\repos\Lab13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Users\WORLD\source\repos\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\WORLD\source\repos\Lab13\Lab13\obj\Debug\Lab13.exe
+C:\Users\WORLD\source\repos\Lab13\Lab13\obj\Debug\Lab13.pdb
